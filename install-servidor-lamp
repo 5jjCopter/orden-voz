@@ -22,3 +22,6 @@ sudo apt-get autoclean
 sudo apt-get clean
 
 sudo apt-get autoremove
+
+
+#192.168.1.33/phpmyadmin

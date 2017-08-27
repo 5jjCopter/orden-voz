@@ -1,0 +1,15 @@
+sudo apt-get update                                                                 #Actualizar el sistema operativo y los repositorios: 
+
+sudo apt-get upgrade
+
+sudo apt-get install apache2                                                        #Instalar el servicio de Apache2
+
+sudo apt-get install php5                                                           #Instalar php5
+
+sudo apt-get install php5-mysql   #Instalar php mysql                               #Instalar mysql                             
+
+sudo apt-get install mysql-server (colocar la contraseña)
+
+sudo apt-get install phpmyadmin                                                     #Instalar phpmyadmin
+
+#Colocar la contraseña de mysql-server para el usuario root de phpmyadmin

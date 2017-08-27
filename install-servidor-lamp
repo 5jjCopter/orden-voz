@@ -16,3 +16,9 @@ sudo apt-get -y install mysql-server                                            
 sudo apt-get -y install apache2 phpmyadmin                                                     #Instalar phpmyadmin
 
 #Colocar la contraseña de mysql-server para el usuario root de phpmyadmin
+
+sudo apt-get autoclean
+
+sudo apt-get clean
+
+sudo apt-get autoremove

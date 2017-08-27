@@ -11,7 +11,7 @@ sudo apt-get -y install php5                                                    
 
 sudo apt-get -y install php5-mysql                                                     #Instalar php mysql
 
-sudo apt-get install mysql-server                                                                #(colocar la contraseña)
+sudo apt-get -y install mysql-server                                                                #(colocar la contraseña)
 
 sudo apt-get -y install apache2 phpmyadmin                                                     #Instalar phpmyadmin
 
